@@ -18,7 +18,5 @@ jobs:
         with:
           go-version: "1.23.0"
 
-      - name: Force Failure
-        run: |
-            echo "go-version 1.23.0"
-            (exit 0)
+      - name: run tests
+        run: go test ./... -cover 

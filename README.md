@@ -24,3 +24,5 @@ You do *not* need to set up a database or any interactivity on the webpage yet. 
 
 Spock's version of Boot.dev's Notely app
 Test123
+
+![ci tests status check](https://github.com/spock1701b/learn-cicd/actions/workflows/ci.yml/badge.svg)
