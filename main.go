@@ -98,6 +98,3 @@ func main() {
 }
 
 
-func unused() {
-	
-}
